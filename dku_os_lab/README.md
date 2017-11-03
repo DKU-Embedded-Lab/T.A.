@@ -1,7 +1,10 @@
 Dankook Univ Lab.
 ======================================
 
-Dankook Univ Lab made for DKU OS coarse.
+Dankook Univ Lab made for OS coarse.
+
+Contents
+---------------
 
 1. Scheduling user level simulator.
    lab1 doc: [lab1 sched](http://embedded.dankook.ac.kr/~choijm/course/201701OSI/Lab1_Scheduler.pdf)
