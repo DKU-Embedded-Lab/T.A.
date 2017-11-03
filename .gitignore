@@ -1,0 +1,18 @@
+#Compiled source#
+#################
+*.o
+.a
+.so 
+
+# editor related file #
+#######################
+*.swp
+tags
+
+# specific directory 
+######################
+RECOVERED_FILES/*
+                                         
+
+
+
