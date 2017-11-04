@@ -6,6 +6,9 @@ Dankook Univ Lab made for OS coarse.
 Contents
 ---------------
 
+0. Vimrc plugin, GDB
+   lab0 doc: [lab0 sched](http://embedded.dankook.ac.kr/~choijm/course/201701OSI/Lab0.pdf)
+
 1. Scheduling user level simulator.
    lab1 doc: [lab1 sched](http://embedded.dankook.ac.kr/~choijm/course/201701OSI/Lab1_Scheduler.pdf)
 
