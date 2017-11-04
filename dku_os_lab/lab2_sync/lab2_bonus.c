@@ -11,8 +11,6 @@
 */
 
 
-#include <sys/types.h>
-#include <pthread.h>
 
 #include "lab2_sync_types.h"
 

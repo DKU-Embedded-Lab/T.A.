@@ -11,12 +11,6 @@
 *   Implement thread-safe bst for coarse-grained version and fine-grained version.
 */
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <assert.h>
-#include <pthread.h>
-#include <string.h>
-
 #include "lab2_sync_types.h"
 
 /*

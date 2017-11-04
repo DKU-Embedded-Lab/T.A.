@@ -7,23 +7,6 @@
 *
 */
 
-
-#include <fuse.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <fcntl.h>
-#include <errno.h>
-#include <time.h>
-#include <sys/time.h>
-#include <string.h>
-#include <unistd.h>
-#include <fcntl.h>
-#include <dirent.h>
-#include <sys/types.h>
-#include <sys/stat.h>
-#include <assert.h>
-#include <sys/file.h>
-
 #include "lab3_fs_types.h"
 
 void lab3_fuse_mount_usage(char *cmd)

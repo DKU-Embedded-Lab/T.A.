@@ -9,17 +9,6 @@
 * You can compare single thread result, coarse grained result and fine grained result.
 */
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <assert.h>
-#include <time.h>
-#include <fcntl.h>
-#include <string.h>
-#include <unistd.h>
-#include <time.h>
-#include <sys/time.h>
-#include <unistd.h>
-
 #include "lab2_sync_types.h"
 
 #define LAB2_TYPE_FINEGRAINED       0

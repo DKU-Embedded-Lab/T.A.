@@ -1,16 +1,26 @@
 
-#include <pthread.h>
+#ifndef _LAB3_HEADER_H
+#define _LAB3_HEADER_H
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 #include <unistd.h>
+#include <fcntl.h>
+#include <dirent.h>
+#include <errno.h>
+#include <sys/file.h> 
+#include <pthread.h>
 #include <sys/time.h>
 #include <sys/mount.h>
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <pthread.h>
-#include <string.h>
+#include <ulockmgr.h>
+#include <assert.h>
+
 #include <fuse.h>
 
-#ifndef _LAB3_HEADER_H
-#define _LAB3_HEADER_H
 
 /* ERROR STATUS */
 #define	LAB3_ERROR		        -1
